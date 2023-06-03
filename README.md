@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/Terristwj">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=200&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Terris+Tan+Wei+Jun;IS+Undergrad+%40+SMU;Software+Engineer+%7C+Web+Developer" alt="Typing SVG" />
+  </a>
+  
+  <br/>
 
-<!--
-**Terristwj/Terristwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.linkedin.com/in/Terristwj/">
+      <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>
 
-Here are some ideas to get you started:
+  <br/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/drkostas">
+      <img src="https://github-stats-alpha.vercel.app/api?username=Terristwj&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  </a>
+</p>
+
+<p align="center">
+  * 📖 Information Systems Undergraduate @ <a href="https://www.smu.edu.sg/">Singapore Management University</a>. 
+</p>
+
