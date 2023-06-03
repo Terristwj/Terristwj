@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/Terristwj">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Terris+Tan+Wei+Jun;IS+Undergrad+%40+SMU;Software+Engineer+%7C+Web+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Terris+Tan+Wei+Jun;IS+Undergrad+%40+SMU;Software+Engineer+%7C+Web+Developer" alt="Typing SVG" />
   </a>
   
   <br/>
 
-  <a href="https://www.linkedin.com/in/Terristwj/">
+  <a href="https://www.linkedin.com/in/terristan/">
       <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
   </a>
 
