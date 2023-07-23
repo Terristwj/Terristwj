@@ -21,7 +21,7 @@
 </p>
 
 <div align="center" >
-  <img style="margin:auto;" src="https://komarev.com/ghpvc/?username=terristwj&label=Profile Views&color=000000&style=for-the-badge"/>
+  <img style="margin:auto;" src="https://komarev.com/ghpvc/?username=terristwj&label= Profile Views &color=000000&style=for-the-badge"/>
 </div>
 
 <!-- Ref: https://github.com/drkostas/drkostas/blob/main/README.md -->
