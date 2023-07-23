@@ -20,5 +20,8 @@
   * 📖 Information Systems Undergraduate @ <a href="https://www.smu.edu.sg/">Singapore Management University</a>. 
 </p>
 
+<div align="center" >
+  <img style="margin:auto;" src="https://komarev.com/ghpvc/?username=terristwj&color=brightgreen&label=Github Profile Views"/>
+</div>
 
 <!-- Ref: https://github.com/drkostas/drkostas/blob/main/README.md -->
