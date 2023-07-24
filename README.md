@@ -21,7 +21,30 @@
 </p>
 
 <div align="center" >
-  <img style="margin:auto;" src="https://komarev.com/ghpvc/?username=terristwj&label= Profile Views &color=000000&style=for-the-badge"/>
+  <img style="margin:auto;" src="https://komarev.com/ghpvc/?username=Terristwj&label= Profile Views &color=000000&style=for-the-badge"/>
 </div>
+
+<details>
+  <summary>📈 GitHub Stats: </summary>
+  <br/>
+  <div>
+    <div>
+        <div>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&hide=javascript,css,scss,html&theme=tokyonight"/>
+        </div>
+        <div>
+           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Terristwj&show_icons=true&locale=en&layout=compact" />
+        </div>
+        <div>
+          <a href="https://github.com/melvincwng">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Terristwj&show_icons=true&locale=en" />
+          </a>
+        </div>
+        <div>
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terristwj&" />
+        </div>
+    </div>
+  </div>
+</details>
 
 <!-- Ref: https://github.com/drkostas/drkostas/blob/main/README.md -->
