@@ -30,18 +30,24 @@
   <div>
     <div>
         <div>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&hide=javascript,css,scss,html&theme=tokyonight"/>
-        </div>
-        <div>
-           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Terristwj&show_icons=true&locale=en&layout=compact" />
-        </div>
-        <div>
-          <a href="https://github.com/melvincwng">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Terristwj&show_icons=true&locale=en" />
+          <a href="https://github.com/Terristwj">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&hide=javascript,css,scss,html&theme=tokyonight"/>
           </a>
         </div>
         <div>
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terristwj&" />
+          <a href="https://github.com/Terristwj">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Terristwj&show_icons=true&locale=en&layout=compact" />
+          </a>
+        </div>
+        <div>
+          <a href="https://github.com/Terristwj">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Terristwj&show_icons=true&locale=en" />
+          </a>
+        </div>
+        <div>
+          <a href="https://github.com/Terristwj">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terristwj&" />
+          </a>
         </div>
     </div>
   </div>
