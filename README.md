@@ -26,28 +26,23 @@
 
 <br />
 
+<!--https://github.com/anuraghazra/github-readme-stats/#language-card-exclusive-options-->
 <div align="center">
   <details>
     <summary>🪮 Languages</summary>
     <div>
-      <div>
-        <a href="https://github.com/Terristwj">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&show_icons=true&hide_border=false&hide=javascript,css,scss,htm" />
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Terristwj">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&show_icons=true&hide_border=false&layout=compact&hide=javascript,css,scss,htm" />
-        </a>
-      </div>
+      <a href="https://github.com/Terristwj">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&show_icons=true&hide_border=false&layout=donut-vertical&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
+      </a
+    </div>
     </div>
   </details>
   <details>
     <summary>📈 GitHub Stats</summary>
     <div>
       <a href="https://github.com/Terristwj">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Terristwj&theme=react&show_icons=true&hide_border=false&count_private=true" />
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terristwj&theme=react&hide_border=false" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Terristwj&theme=react&show_icons=true&hide_border=false&count_private=true&include_all_commits" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terristwj&theme=react&hide_border=false&count_private=true&include_all_commits" />
       </a>
     </div>
   </details>
