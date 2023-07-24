@@ -21,36 +21,35 @@
 </p>
 
 <div align="center" >
-  <img style="margin:auto;" src="https://komarev.com/ghpvc/?username=Terristwj&label= Profile Views &color=000000&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Terristwj&label= Profile Views &color=000000&style=for-the-badge"/>
 </div>
 
-<details>
-  <summary>📈 GitHub Stats: </summary>
-  <br/>
-  <div>
-    <div>
-        <div>
-          <a href="https://github.com/Terristwj">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&hide=javascript,css,scss,html&theme=tokyonight"/>
-          </a>
-        </div>
-        <div>
-          <a href="https://github.com/Terristwj">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Terristwj&show_icons=true&locale=en&layout=compact" />
-          </a>
-        </div>
-        <div>
-          <a href="https://github.com/Terristwj">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Terristwj&show_icons=true&locale=en" />
-          </a>
-        </div>
-        <div>
-          <a href="https://github.com/Terristwj">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terristwj&" />
-          </a>
-        </div>
-    </div>
-  </div>
-</details>
+<br />
 
+<div align="center">
+  <details>
+    <summary>🪮 Languages</summary>
+    <div>
+      <div>
+        <a href="https://github.com/Terristwj">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&show_icons=true&hide_border=false&hide=javascript,css,scss,htm" />
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Terristwj">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&show_icons=true&hide_border=false&layout=compact&hide=javascript,css,scss,htm" />
+        </a>
+      </div>
+    </div>
+  </details>
+  <details>
+    <summary>📈 GitHub Stats</summary>
+    <div>
+      <a href="https://github.com/Terristwj">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Terristwj&theme=react&show_icons=true&hide_border=false&count_private=true" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terristwj&theme=react&hide_border=false" />
+      </a>
+    </div>
+  </details>
+</div>
 <!-- Ref: https://github.com/drkostas/drkostas/blob/main/README.md -->
