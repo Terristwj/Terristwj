@@ -29,7 +29,7 @@
 <!--https://github.com/anuraghazra/github-readme-stats/#language-card-exclusive-options-->
 <div align="center">
   <details>
-    <summary>🪮 Languages</summary>
+    <summary>💻 Languages</summary>
     <div>
       <a href="https://github.com/Terristwj">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&show_icons=true&hide_border=false&layout=donut-vertical&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
