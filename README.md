@@ -17,7 +17,9 @@
 </p>
 
 <p align="center">
-  * 📖 Information Systems Undergraduate @ <a href="https://www.smu.edu.sg/">Singapore Management University</a>. 
+  * 📖 <a href="https://scis.smu.edu.sg/bsc-information-systems">Information Systems Undergraduate</a>
+  <br />
+  @ <a href="https://www.smu.edu.sg/">Singapore Management University</a>
 </p>
 
 <div align="center" >
