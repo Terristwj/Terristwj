@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/terristan/">
       <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
   </a>
+  <a href="https://steamcommunity.com/id/PotatoTheyAreThatEpic">
+      <img src="https://img.shields.io/badge/-Steam-black?style=flat-square&logo=steam">
+  </a>
 
   <br/> 
 
