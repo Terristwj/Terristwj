@@ -29,10 +29,13 @@
 <!--https://github.com/anuraghazra/github-readme-stats/#language-card-exclusive-options-->
 <div align="center">
   <details>
-    <summary>💻 Languages</summary>
+    <summary>💻 Most Used Languages</summary>
     <div>
       <a href="https://github.com/Terristwj">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&show_icons=true&hide_border=false&layout=donut-vertical&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
+        <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&layout=donut-vertical&langs_count=100&custom_title=Languages%20Percentage" />
+        <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&layout=donut-vertical&hide=jupyter%20notebook&langs_count=100&custom_title=Excluding%20Jupyter%20Notebook" />
+        <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&layout=donut-vertical&hide=jupyter%20notebook,html,css,scss&langs_count=100&custom_title=Excluding%20Jupyter,%20HTML,%20CSS" />
+        <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&langs_count=100&hide_progress=true" />
       </a
     </div>
     </div>
