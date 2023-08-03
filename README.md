@@ -34,9 +34,8 @@
     <summary>💻 Most Used Languages</summary>
     <div>
       <a href="https://github.com/Terristwj">
-        <div>
-          <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&langs_count=100&hide_progress=true" />
-        </div>
+        <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&langs_count=100&hide_progress=true" />
+        <br />
         <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&layout=donut-vertical&langs_count=100&custom_title=Languages%20Percentage" />
         <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&layout=donut-vertical&hide=jupyter%20notebook&langs_count=100&custom_title=Excluding%20Jupyter%20Notebook" />
         <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&layout=donut-vertical&hide=jupyter%20notebook,html,css,scss&langs_count=100&custom_title=Excluding%20Jupyter,%20HTML,%20CSS" />
@@ -48,8 +47,9 @@
     <summary>📈 GitHub Stats</summary>
     <div>
       <a href="https://github.com/Terristwj">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Terristwj&theme=react&show_icons=true&hide_border=false&count_private=true&include_all_commits" />
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terristwj&theme=react&hide_border=false&count_private=true&include_all_commits" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Terristwj&card_width=600&theme=react&show_icons=true&hide_border=false&count_private=true&include_all_commits" />
+        <br />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terristwj&card_width=600&theme=react&hide_border=false&count_private=true&include_all_commits" />
       </a>
     </div>
   </details>
