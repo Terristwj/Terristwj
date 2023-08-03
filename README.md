@@ -32,10 +32,12 @@
     <summary>💻 Most Used Languages</summary>
     <div>
       <a href="https://github.com/Terristwj">
+        <div>
+          <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&langs_count=100&hide_progress=true" />
+        </div>
         <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&layout=donut-vertical&langs_count=100&custom_title=Languages%20Percentage" />
         <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&layout=donut-vertical&hide=jupyter%20notebook&langs_count=100&custom_title=Excluding%20Jupyter%20Notebook" />
         <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&layout=donut-vertical&hide=jupyter%20notebook,html,css,scss&langs_count=100&custom_title=Excluding%20Jupyter,%20HTML,%20CSS" />
-        <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&langs_count=100&hide_progress=true" />
       </a
     </div>
     </div>
