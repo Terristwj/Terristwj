@@ -6,21 +6,21 @@
   <br/>
 
   <a href="https://www.linkedin.com/in/terristan/">
-      <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+      <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://steamcommunity.com/id/PotatoTheyAreThatEpic">
-      <img src="https://img.shields.io/badge/-Steam-black?style=flat-square&logo=steam">
+      <img src="https://img.shields.io/badge/-Steam-black?style=flat-square&logo=steam" />
   </a>
 
   <br />
   <a href="https://synthia-gen-ai-website.vercel.app/">
-      <img src="https://img.shields.io/badge/-Summer_2023_Hackathon_Project-black?style=flat-square&logo=react">
+      <img src="https://img.shields.io/badge/-Summer_2023_Hackathon_Project-black?style=flat-square&logo=react" />
   </a>
 
   <br/> 
 
   <a href="https://github.com/Terristwj">
-      <img src="https://github-stats-alpha.vercel.app/api?username=Terristwj&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+      <img src="https://github-stats-alpha.vercel.app/api?username=Terristwj&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 </p>
 
 <div align="center" >
-  <img src="https://komarev.com/ghpvc/?username=Terristwj&label= Profile Views &color=000000&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Terristwj&label= Profile Views &color=000000&style=for-the-badge" />
 </div>
 
 <br />
