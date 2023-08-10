@@ -12,6 +12,11 @@
       <img src="https://img.shields.io/badge/-Steam-black?style=flat-square&logo=steam">
   </a>
 
+  <br />
+  <a href="https://synthia-gen-ai-website.vercel.app/">
+      <img src="https://img.shields.io/badge/-Summer_2023_Hackathon_Project-black?style=flat-square&logo=react">
+  </a>
+
   <br/> 
 
   <a href="https://github.com/Terristwj">
