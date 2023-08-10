@@ -5,6 +5,7 @@
   
   <br/>
 
+  <!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
   <a href="https://www.linkedin.com/in/terristan/">
       <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" />
   </a>
