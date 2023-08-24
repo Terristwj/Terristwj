@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/-Summer_2023_Hackathon_Project-black?style=flat-square&logo=react" />
   </a>
 
-  <br/> 
+  <br /> 
 
   <a href="https://github.com/Terristwj">
       <img src="https://github-stats-alpha.vercel.app/api?username=Terristwj&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
