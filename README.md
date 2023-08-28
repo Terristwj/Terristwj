@@ -14,8 +14,14 @@
   </a>
 
   <br />
+  <!-- Synthia: AI Web Companion -->
   <a href="https://synthia-gen-ai-website.vercel.app/">
-      <img src="https://img.shields.io/badge/-Summer_2023_Hackathon_Project-black?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/-Summer_2023_.Hack_HEAP_Hackathon-black?style=flat-square&logo=react" />
+  </a>
+  <br />
+  <!-- Vicky: Your Colourblind Assistant -->
+  <a href="https://vicky-nine.vercel.app/">
+      <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" />
   </a>
 
   <br /> 
