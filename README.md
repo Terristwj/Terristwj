@@ -45,6 +45,7 @@
 
 <!--https://github.com/anuraghazra/github-readme-stats/#language-card-exclusive-options-->
 <div align="center">
+  <p>Private Repos are not included 😔</p>
   <details>
     <summary>💻 Most Used Languages</summary>
     <div>
