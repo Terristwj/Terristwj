@@ -14,6 +14,8 @@
   </a>
 
   <br />
+  <!-- Docs: https://shields.io/ -->
+  <!-- Logos: https://simpleicons.org/ -->
   <!-- Synthia: AI Web Companion -->
   <a href="https://synthia-gen-ai-website.vercel.app/">
       <img src="https://img.shields.io/badge/-Summer_2023_.Hack_HEAP_Hackathon-black?style=flat-square&logo=react" />
@@ -22,6 +24,11 @@
   <!-- Vicky: Your Colourblind Assistant -->
   <a href="https://vicky-nine.vercel.app/">
       <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" />
+  </a>
+  <br /> 
+  <!-- Matchsticks EduTrekker: AI eLearn for kids -->
+  <a href="[https://vicky-nine.vercel.app/](https://ignite-matchsticks-pam.web.app/)">
+      <img src="https://img.shields.io/badge/-Google_Ignite_2023_Hackathon-black?style=flat-square&logo=flutter&logoColor=47C5FB" />
   </a>
 
   <br /> 
