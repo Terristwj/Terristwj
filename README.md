@@ -27,7 +27,7 @@
   </a>
   <br /> 
   <!-- Matchsticks EduTrekker: AI eLearn for kids -->
-  <a href="[https://vicky-nine.vercel.app/](https://ignite-matchsticks-pam.web.app/)">
+  <a href="https://ignite-matchsticks-pam.web.app/">
       <img src="https://img.shields.io/badge/-Google_Ignite_2023_Hackathon-black?style=flat-square&logo=flutter&logoColor=47C5FB" />
   </a>
 
