@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/Terristwj" target="_blank">
+  <a href="https://github.com/Terristwj"">
       <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Terris+Tan+Wei+Jun;IS+Undergrad+%40+SMU;Software+Engineer+%7C+Web+Developer" alt="Typing SVG" />
   </a>
   
   <br/>
 
   <!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
-  <a href="https://www.linkedin.com/in/terristan/" target="_blank">
+  <a href="https://www.linkedin.com/in/terristan/">
       <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://steamcommunity.com/id/PotatoTheyAreThatEpic">
@@ -17,29 +17,29 @@
   <!-- Docs: https://shields.io/ -->
   <!-- Logos: https://simpleicons.org/ -->
   <!-- Synthia: AI Web Companion -->
-  <a href="https://synthia-gen-ai-website.vercel.app/" target="_blank">
+  <a href="https://synthia-gen-ai-website.vercel.app/">
       <img src="https://img.shields.io/badge/-Summer_2023_.Hack_HEAP_Hackathon-black?style=flat-square&logo=react" />
   </a>
   <br />
   <!-- Vicky: Your Colourblind Assistant -->
-  <a href="https://vicky-nine.vercel.app/" target="_blank">
+  <a href="https://vicky-nine.vercel.app/">
       <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" />
   </a>
   <br /> 
   <!-- Matchsticks EduTrekker: AI eLearn for kids -->
-  <a href="https://ignite-matchsticks-pam.web.app/" target="_blank">
+  <a href="https://ignite-matchsticks-pam.web.app/">
       <img src="https://img.shields.io/badge/-Google_Ignite_2023_Hackathon-black?style=flat-square&logo=flutter&logoColor=47C5FB" />
   </a>
 
   <br /> 
 
-  <a href="https://github.com/Terristwj" target="_blank">
+  <a href="https://github.com/Terristwj">
       <img src="https://github-stats-alpha.vercel.app/api?username=Terristwj&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
   </a>
 </p>
 
 <p align="center">
-  * 📖 <a href="https://scis.smu.edu.sg/bsc-information-systems" target="_blank">Information Systems Undergraduate</a>
+  * 📖 <a href="https://scis.smu.edu.sg/bsc-information-systems">Information Systems Undergraduate</a>
   <br />
   @ <a href="https://www.smu.edu.sg/">Singapore Management University</a>
 </p>
@@ -56,7 +56,7 @@
   <details>
     <summary>💻 Most Used Languages</summary>
     <div>
-      <a href="https://github.com/Terristwj" target="_blank">
+      <a href="https://github.com/Terristwj">
         <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&langs_count=100&hide_progress=true" />
         <br />
         <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terristwj&theme=react&layout=donut-vertical&langs_count=100&custom_title=Languages%20Percentage" />
@@ -69,7 +69,7 @@
   <details>
     <summary>📈 GitHub Stats</summary>
     <div>
-      <a href="https://github.com/Terristwj" target="_blank">
+      <a href="https://github.com/Terristwj">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Terristwj&card_width=600&theme=react&show_icons=true&hide_border=false&count_private=true&include_all_commits" />
         <br />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terristwj&card_width=600&theme=react&hide_border=false&count_private=true&include_all_commits" />
