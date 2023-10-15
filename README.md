@@ -30,6 +30,11 @@
   <a href="https://ignite-matchsticks-pam.web.app/">
       <img src="https://img.shields.io/badge/-Google_Ignite_2023_Hackathon-black?style=flat-square&logo=flutter&logoColor=47C5FB" />
   </a>
+  <br /> 
+  <!-- UrbanAIze:  AI Urban Planning Solution -->
+  <a href="https://www.figma.com/proto/TB0akMAxSXhEtRkl2nNy7k/We-prototype-here?type=design&node-id=162-4917&t=HC5zF66k2mWhaOUn-1&scaling=scale-down-width&page-id=13%3A9787&starting-point-node-id=162%3A4917&mode=design">
+      <img src="https://img.shields.io/badge/-(NUS_NES)_CatalystxAI-white?style=flat-square&logo=figma" />
+  </a>
 
   <br /> 
 
