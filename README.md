@@ -18,7 +18,7 @@
   <!-- Logos: https://simpleicons.org/ -->
   <!-- Synthia: AI Web Companion -->
   <a href="https://synthia-gen-ai-website.vercel.app/">
-      <img src="https://img.shields.io/badge/-Summer_2023_.Hack_HEAP_Hackathon-black?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/-.Hack_HEAP_2023_Hackathon-black?style=flat-square&logo=react" />
   </a>
   <br />
   <!-- Vicky: Your Colourblind Assistant -->
