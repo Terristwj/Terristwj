@@ -37,7 +37,7 @@
   </a>
   <br /> 
   <!-- WAD2 Project: Revnte-->
-  <a href="https://smu-wad2.web.app/?type=design&node-id=162-4917&t=HC5zF66k2mWhaOUn-1&scaling=scale-down-width&page-id=13%3A9787&starting-point-node-id=162%3A4917&mode=design">
+  <a href="https://smu-wad2.web.app/">
       <img src="https://img.shields.io/badge/-(WAD2_Project)_Revente-black?style=flat-square&logo=vuedotjs" />
   </a>
 
