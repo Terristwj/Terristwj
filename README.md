@@ -55,7 +55,7 @@
 </p>
 
 <div align="center" >
-  <img src="https://komarev.com/ghpvc/?username=Terristwj&label= Profile Views &color=000000&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Terristwj&label=Profile%20Views&color=000000&style=for-the-badge" />
 </div>
 
 <br />
