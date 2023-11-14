@@ -16,26 +16,29 @@
   <br />
   <!-- Docs: https://shields.io/ -->
   <!-- Logos: https://simpleicons.org/ -->
+  
   <!-- Synthia: AI Web Companion -->
   <a href="https://synthia-gen-ai-website.vercel.app/">
       <img src="https://img.shields.io/badge/-.Hack_HEAP_2023_Hackathon-black?style=flat-square&logo=react" />
   </a>
-  <br />
   <!-- Vicky: Your Colourblind Assistant -->
   <a href="https://vicky-nine.vercel.app/">
       <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" />
   </a>
+  
   <br /> 
+  
   <!-- Matchsticks EduTrekker: AI eLearn for kids -->
   <a href="https://ignite-matchsticks-pam.web.app/">
       <img src="https://img.shields.io/badge/-Google_Ignite_2023_Hackathon-black?style=flat-square&logo=flutter&logoColor=47C5FB" />
   </a>
-  <br /> 
   <!-- UrbanAIze:  AI Urban Planning Solution -->
   <a href="https://www.figma.com/proto/TB0akMAxSXhEtRkl2nNy7k/We-prototype-here?type=design&node-id=162-4917&t=HC5zF66k2mWhaOUn-1&scaling=scale-down-width&page-id=13%3A9787&starting-point-node-id=162%3A4917&mode=design">
-      <img src="https://img.shields.io/badge/-(NUS_NES)_CatalystxAI_2023_Hackathon-white?style=flat-square&logo=figma" />
+      <img src="https://img.shields.io/badge/-(NUS_NES)_CatalystxAI_2023_Hackathon-black?style=flat-square&logo=figma" />
   </a>
+  
   <br /> 
+  
   <!-- WAD2 Project: Revnte-->
   <a href="https://smu-wad2.web.app/">
       <img src="https://img.shields.io/badge/-(WAD2_Project_2023)_Revente-black?style=flat-square&logo=vuedotjs" />
