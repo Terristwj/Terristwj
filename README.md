@@ -31,11 +31,14 @@
   <!-- Matchsticks EduTrekker: AI eLearn for kids -->
   <a href="https://ignite-matchsticks-pam.web.app/">
       <img src="https://img.shields.io/badge/-Google_Ignite_2023_Hackathon-black?style=flat-square&logo=flutter&logoColor=47C5FB" /></a>
-  <!-- UrbanAIze:  AI Urban Planning Solution -->
+  <!-- UrbanAIze: AI Urban Planning Solution -->
   <a href="https://www.figma.com/proto/TB0akMAxSXhEtRkl2nNy7k/We-prototype-here?type=design&node-id=162-4917&t=HC5zF66k2mWhaOUn-1&scaling=scale-down-width&page-id=13%3A9787&starting-point-node-id=162%3A4917&mode=design">
       <img src="https://img.shields.io/badge/-(NUS_NES)_CatalystxAI_2023_Hackathon-black?style=flat-square&logo=figma" /></a>
   <br /> 
   
+  <!-- WeSports: Connecting Youths through Sports -->
+  <a href="https://www.figma.com/proto/vhDiwasq01SLSg4xZxwdRK/Our-Design-goes-here?type=design&node-id=333-16744&t=TTEV9PvHAR4gZJNN-1&scaling=scale-down&page-id=27%3A1014&starting-point-node-id=333%3A16744&mode=design">
+      <img src="https://img.shields.io/badge/-(IDP_Project_2023)_WeSports-black?style=flat-square&logo=figma" /></a>
   <!-- WAD2 Project: Revnte-->
   <a href="https://smu-wad2.web.app/">
       <img src="https://img.shields.io/badge/-(WAD2_Project_2023)_Revente-black?style=flat-square&logo=vuedotjs" /></a>
