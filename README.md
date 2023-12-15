@@ -30,32 +30,67 @@
 <!---------------------->
 <!-- Docs: https://shields.io/ -->
 <!-- Logos: https://simpleicons.org/ -->
-<p align="center">
+<div align="center">
+  <!-------------------------->
+  <!-- 3.1.Hackathons START -->
+  <!-------------------------->
+  <details>
+    <summary>Hackathons</summary>
+    <div>
+      <!-- Synthia: AI Web Companion -->
+      <a href="https://synthia-gen-ai-website.vercel.app/">
+          <img src="https://img.shields.io/badge/-.Hack_HEAP_2023_Hackathon-black?style=flat-square&logo=react" /></a>
+      <!-- Vicky: Your Colourblind Assistant -->
+      <a href="https://vicky-nine.vercel.app/">
+          <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" /></a>
+      <!-- Matchsticks EduTrekker: AI eLearn for kids -->
+      <a href="https://ignite-matchsticks-pam.web.app/">
+          <img src="https://img.shields.io/badge/-Google_Ignite_2023_Hackathon-black?style=flat-square&logo=flutter&logoColor=47C5FB" /></a>
+      <!-- UrbanAIze: AI Urban Planning Solution -->
+      <a href="https://www.figma.com/proto/TB0akMAxSXhEtRkl2nNy7k/We-prototype-here?type=design&node-id=162-4917&t=HC5zF66k2mWhaOUn-1&scaling=scale-down-width&page-id=13%3A9787&starting-point-node-id=162%3A4917&mode=design">
+          <img src="https://img.shields.io/badge/-(NUS_NES)_CatalystxAI_2023_Hackathon-black?style=flat-square&logo=figma" /></a>
+    </div>
+  </details>
+  <!------------------------>
+  <!-- 3.1.Hackathons END -->
+  <!------------------------>
+
+  <!------------------------>
+  <!-- 3.2.Academic START -->
+  <!------------------------>
+  <details>
+    <summary>Academic Projects</summary>
+    <div>
+      <!-- WeSports: Connecting Youths through Sports -->
+      <a href="https://www.figma.com/proto/vhDiwasq01SLSg4xZxwdRK/Our-Design-goes-here?type=design&node-id=333-16744&t=TTEV9PvHAR4gZJNN-1&scaling=scale-down&page-id=27%3A1014&starting-point-node-id=333%3A16744&mode=design">
+          <img src="https://img.shields.io/badge/-(IDP_Project_2023)_WeSports-black?style=flat-square&logo=figma" /></a>
+      <!-- WAD2 Project: Revnte-->
+      <a href="https://smu-wad2.web.app/">
+          <img src="https://img.shields.io/badge/-(WAD2_Project_2023)_Revente-black?style=flat-square&logo=vuedotjs" /></a>
+    </div>
+  </details>
+  <!---------------------->
+  <!-- 3.2.Academic END -->
+  <!---------------------->
   
-  <!-- Synthia: AI Web Companion -->
-  <a href="https://synthia-gen-ai-website.vercel.app/">
-      <img src="https://img.shields.io/badge/-.Hack_HEAP_2023_Hackathon-black?style=flat-square&logo=react" /></a>
-  <!-- Vicky: Your Colourblind Assistant -->
-  <a href="https://vicky-nine.vercel.app/">
-      <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" /></a>
-  <br /> 
-  
-  <!-- Matchsticks EduTrekker: AI eLearn for kids -->
-  <a href="https://ignite-matchsticks-pam.web.app/">
-      <img src="https://img.shields.io/badge/-Google_Ignite_2023_Hackathon-black?style=flat-square&logo=flutter&logoColor=47C5FB" /></a>
-  <!-- UrbanAIze: AI Urban Planning Solution -->
-  <a href="https://www.figma.com/proto/TB0akMAxSXhEtRkl2nNy7k/We-prototype-here?type=design&node-id=162-4917&t=HC5zF66k2mWhaOUn-1&scaling=scale-down-width&page-id=13%3A9787&starting-point-node-id=162%3A4917&mode=design">
-      <img src="https://img.shields.io/badge/-(NUS_NES)_CatalystxAI_2023_Hackathon-black?style=flat-square&logo=figma" /></a>
-  <br /> 
-  
-  <!-- WeSports: Connecting Youths through Sports -->
-  <a href="https://www.figma.com/proto/vhDiwasq01SLSg4xZxwdRK/Our-Design-goes-here?type=design&node-id=333-16744&t=TTEV9PvHAR4gZJNN-1&scaling=scale-down&page-id=27%3A1014&starting-point-node-id=333%3A16744&mode=design">
-      <img src="https://img.shields.io/badge/-(IDP_Project_2023)_WeSports-black?style=flat-square&logo=figma" /></a>
-  <!-- WAD2 Project: Revnte-->
-  <a href="https://smu-wad2.web.app/">
-      <img src="https://img.shields.io/badge/-(WAD2_Project_2023)_Revente-black?style=flat-square&logo=vuedotjs" /></a>
-  <br /> 
-</p>
+  <!------------------------------------->
+  <!-- 3.3.Google-cloud-platform START -->
+  <!------------------------------------->
+  <details>
+    <summary>Google Cloud Platform</summary>
+    <div>
+      <!-- Google Cloud Profile-->
+      <a href="https://www.cloudskillsboost.google/public_profiles/8bf097e5-044f-4ede-851f-a727040d1348">
+          <img src="https://img.shields.io/badge/-Google_Cloud_Profile-black?style=flat-square&logo=googlecloud" /></a>
+      <!-- Google Cloud Credentials-->
+      <a href="https://googlecloudcertified.credential.net/profile/c5a95537-5b47-44ad-a074-628ebf26bae7?name=terris">
+          <img src="https://img.shields.io/badge/-GCP_Certifications-black?style=flat-square&logo=googlecloud" /></a>
+        </div>
+  </details>
+  <!----------------------------------->
+  <!-- 3.3.Google-cloud-platform END -->
+  <!----------------------------------->
+</div>
 <!-------------------->
 <!-- 3.Projects END -->
 <!-------------------->
