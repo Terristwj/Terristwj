@@ -43,6 +43,7 @@
       <!-- Vicky: Your Colourblind Assistant -->
       <a href="https://vicky-nine.vercel.app/">
           <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" /></a>
+      <br />
       <!-- Matchsticks EduTrekker: AI eLearn for kids -->
       <a href="https://ignite-matchsticks-pam.web.app/">
           <img src="https://img.shields.io/badge/-Google_Ignite_2023_Hackathon-black?style=flat-square&logo=flutter&logoColor=47C5FB" /></a>
@@ -82,10 +83,10 @@
       <!-- Google Cloud Credentials-->
       <a href="https://googlecloudcertified.credential.net/profile/c5a95537-5b47-44ad-a074-628ebf26bae7?name=terris">
           <img src="https://img.shields.io/badge/-GCP_Certification-black?style=flat-square&logo=googlecloud" /></a>
-        </div>
       <!-- Google Cloud Profile-->
       <a href="https://www.cloudskillsboost.google/public_profiles/8bf097e5-044f-4ede-851f-a727040d1348">
           <img src="https://img.shields.io/badge/-Google_Cloud_Profile-black?style=flat-square&logo=googlecloud" /></a>
+    </div>
   </details>
   <!----------------------------------->
   <!-- 3.3.Google-cloud-platform END -->
