@@ -79,13 +79,13 @@
   <details>
     <summary>Google Cloud Platform</summary>
     <div>
+      <!-- Google Cloud Credentials-->
+      <a href="https://googlecloudcertified.credential.net/profile/c5a95537-5b47-44ad-a074-628ebf26bae7?name=terris">
+          <img src="https://img.shields.io/badge/-GCP_Certification-black?style=flat-square&logo=googlecloud" /></a>
+        </div>
       <!-- Google Cloud Profile-->
       <a href="https://www.cloudskillsboost.google/public_profiles/8bf097e5-044f-4ede-851f-a727040d1348">
           <img src="https://img.shields.io/badge/-Google_Cloud_Profile-black?style=flat-square&logo=googlecloud" /></a>
-      <!-- Google Cloud Credentials-->
-      <a href="https://googlecloudcertified.credential.net/profile/c5a95537-5b47-44ad-a074-628ebf26bae7?name=terris">
-          <img src="https://img.shields.io/badge/-GCP_Certifications-black?style=flat-square&logo=googlecloud" /></a>
-        </div>
   </details>
   <!----------------------------------->
   <!-- 3.3.Google-cloud-platform END -->
