@@ -14,12 +14,15 @@
 <!-- 2.Socials START -->
 <!--------------------->
 <!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
+<!-- https://simpleicons.org/ -->
 <p align="center">
+  <a href="https://terris-portfolio.vercel.app/">
+       <img src="https://img.shields.io/badge/-My_Portfolio_Website-0D9488?style=flat-square&logo=toml" /></a>
+  <br/>
   <a href="https://www.linkedin.com/in/terristan/">
-     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" /></a>
-     
-  <a href="https://steamcommunity.com/id/PotatoTheyAreThatEpic">
-      <img src="https://img.shields.io/badge/-Steam-black?style=flat-square&logo=steam" /></a>
+       <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" /></a>
+    <a href="https://steamcommunity.com/id/PotatoTheyAreThatEpic">
+        <img src="https://img.shields.io/badge/-Steam-black?style=flat-square&logo=steam" /></a>
 </p>
 <!------------------->
 <!-- 2.Socials END -->
