@@ -68,7 +68,7 @@
       <!-- WeSports: Connecting Youths through Sports -->
       <a href="https://www.figma.com/proto/vhDiwasq01SLSg4xZxwdRK/Our-Design-goes-here?type=design&node-id=333-16744&t=TTEV9PvHAR4gZJNN-1&scaling=scale-down&page-id=27%3A1014&starting-point-node-id=333%3A16744&mode=design">
           <img src="https://img.shields.io/badge/-(IDP_Project_2023)_WeSports-black?style=flat-square&logo=figma" /></a>
-      <!-- WAD2 Project: Revnte-->
+      <!-- WAD2 Project: Revnte -->
       <a href="https://smu-wad2.web.app/">
           <img src="https://img.shields.io/badge/-(WAD2_Project_2023)_Revente-black?style=flat-square&logo=vuedotjs" /></a>
     </div>
@@ -83,16 +83,31 @@
   <details>
     <summary>Google Cloud Platform</summary>
     <div>
-      <!-- Google Cloud Credentials-->
+      <!-- Google Cloud Credentials -->
       <a href="https://googlecloudcertified.credential.net/profile/21f0487e-1777-4bee-9659-e92d9979f308?name=terris%20tan">
           <img src="https://img.shields.io/badge/-GCP_Certification-black?style=flat-square&logo=googlecloud" /></a>
-      <!-- Google Cloud Profile-->
+      <!-- Google Cloud Profile -->
       <a href="https://www.cloudskillsboost.google/public_profiles/8bf097e5-044f-4ede-851f-a727040d1348">
           <img src="https://img.shields.io/badge/-Google_Cloud_Profile-black?style=flat-square&logo=googlecloud" /></a>
     </div>
   </details>
   <!----------------------------------->
   <!-- 3.3.Google-cloud-platform END -->
+  <!----------------------------------->
+
+  <!------------------------------------->
+  <!-- 3.4.Certificates START -->
+  <!------------------------------------->
+  <details>
+    <summary>Certificates</summary>
+    <div>
+      <!-- Google Cloud Credentials-->
+      <a href="https://www.coursera.org/user/9ba4d18bfc3787b131993b5b308e4fd5">
+          <img src="https://img.shields.io/badge/-Coursera_Google_Certs-black?style=flat-square&logo=coursera" /></a>
+    </div>
+  </details>
+  <!----------------------------------->
+  <!-- 3.4.Google-cloud-platform END -->
   <!----------------------------------->
 </div>
 <!-------------------->
