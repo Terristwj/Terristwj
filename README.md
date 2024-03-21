@@ -84,7 +84,7 @@
     <summary>Google Cloud Platform</summary>
     <div>
       <!-- Google Cloud Credentials-->
-      <a href="https://googlecloudcertified.credential.net/profile/c5a95537-5b47-44ad-a074-628ebf26bae7?name=terris">
+      <a href="https://googlecloudcertified.credential.net/profile/21f0487e-1777-4bee-9659-e92d9979f308?name=terris%20tan">
           <img src="https://img.shields.io/badge/-GCP_Certification-black?style=flat-square&logo=googlecloud" /></a>
       <!-- Google Cloud Profile-->
       <a href="https://www.cloudskillsboost.google/public_profiles/8bf097e5-044f-4ede-851f-a727040d1348">
