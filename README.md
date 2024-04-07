@@ -107,7 +107,7 @@
       <!-- Accredible: Certificates/Certifications Databank -->
       <a href="https://www.credential.net/profile/terristan796666/wallet">
           <img src="https://img.shields.io/badge/-Accredible-black?style=flat-square&logo=cachet" /></a>
-      <!-- Google Cloud Credentials-->
+      <!-- Credly: Certificates/Certifications Databank-->
       <a href="https://www.credly.com/users/terris-tan/badges">
           <img src="https://img.shields.io/badge/-Credly-black?style=flat-square&logo=credly" /></a>
     </div>
