@@ -83,10 +83,10 @@
   <details>
     <summary>Google Cloud Platform</summary>
     <div>
-      <!-- Google Cloud Credentials -->
+      <!-- Google Cloud Platform Credentials -->
       <a href="https://googlecloudcertified.credential.net/profile/21f0487e-1777-4bee-9659-e92d9979f308?name=terris%20tan">
           <img src="https://img.shields.io/badge/-GCP_Certification-black?style=flat-square&logo=googlecloud" /></a>
-      <!-- Google Cloud Profile -->
+      <!-- Google Skill Boost Profile -->
       <a href="https://www.cloudskillsboost.google/public_profiles/8bf097e5-044f-4ede-851f-a727040d1348">
           <img src="https://img.shields.io/badge/-Google_Cloud_Profile-black?style=flat-square&logo=googlecloud" /></a>
     </div>
@@ -95,20 +95,26 @@
   <!-- 3.3.Google-cloud-platform END -->
   <!----------------------------------->
 
-  <!------------------------------------->
+  <!---------------------------->
   <!-- 3.4.Certificates START -->
-  <!------------------------------------->
+  <!---------------------------->
   <details>
     <summary>Certificates</summary>
     <div>
-      <!-- Google Cloud Credentials-->
+      <!-- Coursera: Google Professional Certificates -->
       <a href="https://www.coursera.org/user/9ba4d18bfc3787b131993b5b308e4fd5">
-          <img src="https://img.shields.io/badge/-Coursera_Google_Certs-black?style=flat-square&logo=coursera" /></a>
+          <img src="https://img.shields.io/badge/-Coursera_x_Google-black?style=flat-square&logo=coursera" /></a>
+      <!-- Accredible: Certificates/Certifications Databank -->
+      <a href="https://www.credential.net/profile/terristan796666/wallet">
+          <img src="https://img.shields.io/badge/-Accredible-black?style=flat-square&logo=cachet" /></a>
+      <!-- Google Cloud Credentials-->
+      <a href="https://www.credly.com/users/terris-tan/badges">
+          <img src="https://img.shields.io/badge/-Credly-black?style=flat-square&logo=credly" /></a>
     </div>
   </details>
-  <!----------------------------------->
-  <!-- 3.4.Google-cloud-platform END -->
-  <!----------------------------------->
+  <!-------------------------->
+  <!-- 3.4.Certificates END -->
+  <!-------------------------->
 </div>
 <!-------------------->
 <!-- 3.Projects END -->
