@@ -206,7 +206,13 @@
 ```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Terristwj/Terristwj/blob/main/lets_play_stardew.gif?raw=true');]{x0000}$}
 -->
-<!-- Ref: https://github.com/hrtowii/hrtowii/blob/main/README.md?plain=1 -->
 
+<!-- Ref: https://github.com/hrtowii/hrtowii/blob/main/README.md?plain=1 -->
+<!--
 ```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: -30vw; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/Terristwj/Terristwj/blob/main/starry_night_pixel.gif?raw=true');]{x0000}$}
+-->
+
+<!-- Ref: https://github.com/xMdb/xMdb/blob/master/README.md?plain=1 -->
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Terristwj/Terristwj/blob/main/starry_night_pixel.gif?raw=true'');]{x0000}$}
