@@ -59,7 +59,7 @@
           <img src="https://img.shields.io/badge/-DSTA_BrainHack_TIL--AI_2024_Hackathon-black?style=flat-square&logo=github" /></a>
       <!-- Lockerism: Redefining Secure Data Analytics with Homomorphic Encryption and Blockchain Technology -->
       <a href="https://devpost.com/software/lockerism">
-          <img src="https://img.shields.io/badge/-TikTok_TechJam_2024_Hackathon-black?style=flat-square&logo=tiktok" /></a>
+          <img src="https://img.shields.io/badge/-TikTok_TechJam_2024_Hackathon-black?style=flat-square&logo=devpost" /></a>
     </div>
   </details>
   <!------------------------>
