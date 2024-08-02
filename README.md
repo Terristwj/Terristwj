@@ -52,7 +52,14 @@
           <img src="https://img.shields.io/badge/-Google_Ignite_2023_Hackathon-black?style=flat-square&logo=flutter&logoColor=47C5FB" /></a>
       <!-- UrbanAIze: AI Urban Planning Solution -->
       <a href="https://www.figma.com/proto/TB0akMAxSXhEtRkl2nNy7k/We-prototype-here?type=design&node-id=162-4917&t=HC5zF66k2mWhaOUn-1&scaling=scale-down-width&page-id=13%3A9787&starting-point-node-id=162%3A4917&mode=design">
-          <img src="https://img.shields.io/badge/-(NUS_NES)_CatalystxAI_2023_Hackathon-black?style=flat-square&logo=figma" /></a>
+          <img src="https://img.shields.io/badge/-(NUS--NES)_CatalystxAI_2023_Hackathon-black?style=flat-square&logo=figma" /></a>
+      <br />
+      <!-- FreeIceMilo: ASR/NLP/VLM Project -->
+      <a href="https://github.com/IlyasYao/TIL-AI-2024_freeicemilo">
+          <img src="https://img.shields.io/badge/-DSTA_BrainHack_TIL--AI_2024_Hackathon-black?style=flat-square&logo=github" /></a>
+      <!-- Lockerism: Redefining Secure Data Analytics with Homomorphic Encryption and Blockchain Technology -->
+      <a href="https://devpost.com/software/lockerism">
+          <img src="https://img.shields.io/badge/-TikTok_TechJam_2024_Hackathon-black?style=flat-square&logo=tiktok" /></a>
     </div>
   </details>
   <!------------------------>
@@ -65,12 +72,19 @@
   <details>
     <summary>Academic Projects</summary>
     <div>
-      <!-- WeSports: Connecting Youths through Sports -->
+      <!-- (IDP) WeSports: Connecting Youths through Sports -->
       <a href="https://www.figma.com/proto/vhDiwasq01SLSg4xZxwdRK/Our-Design-goes-here?type=design&node-id=333-16744&t=TTEV9PvHAR4gZJNN-1&scaling=scale-down&page-id=27%3A1014&starting-point-node-id=333%3A16744&mode=design">
           <img src="https://img.shields.io/badge/-(IDP_Project_2023)_WeSports-black?style=flat-square&logo=figma" /></a>
-      <!-- WAD2 Project: Revnte -->
+      <!-- (WAD2) Reventé: Your Next Generation Clothing Marketplace -->
       <a href="https://smu-wad2.web.app/">
           <img src="https://img.shields.io/badge/-(WAD2_Project_2023)_Revente-black?style=flat-square&logo=vuedotjs" /></a>
+      <br/>
+      <!-- (DBBT) Sheng Siong App: A better shopper experience -->
+      <a href="https://www.figma.com/proto/B3tWisk8APZ092OFs9GCHh/DBTT---Sheng-Siong?node-id=34-1477&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A1477">
+          <img src="https://img.shields.io/badge/-(DBTT_Project_2024)_Sheng_Siong_App-black?style=flat-square&logo=figma" /></a>
+      <!-- (ESD) YATA - Yet Another Telemedicine App -->
+      <a href="https://github.com/0gw0/Healthcare-API">
+          <img src="https://img.shields.io/badge/-(ESD_Project_2024)_YATA-black?style=flat-square&logo=docker" /></a>
     </div>
   </details>
   <!---------------------->
@@ -84,7 +98,7 @@
     <summary>Google Cloud Platform</summary>
     <div>
       <!-- Google Cloud Platform Credentials -->
-      <a href="https://googlecloudcertified.credential.net/profile/21f0487e-1777-4bee-9659-e92d9979f308?name=terris%20tan">
+      <a href="https://www.credential.net/6f336a03-cba6-4587-8aed-1f42657565a9">
           <img src="https://img.shields.io/badge/-GCP_Certification-black?style=flat-square&logo=googlecloud" /></a>
       <!-- Google Skill Boost Profile -->
       <a href="https://www.cloudskillsboost.google/public_profiles/8bf097e5-044f-4ede-851f-a727040d1348">
