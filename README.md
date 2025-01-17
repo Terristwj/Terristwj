@@ -60,6 +60,10 @@
       <!-- Lockerism: Redefining Secure Data Analytics with Homomorphic Encryption and Blockchain Technology -->
       <a href="https://devpost.com/software/lockerism">
           <img src="https://img.shields.io/badge/-TikTok_TechJam_2024_Hackathon-black?style=flat-square&logo=devpost" /></a>
+      <br />
+      <!-- FreeIceKopi: Detection of unusual objects using body-worn cameras mounted at torso level -->
+      <a href="https://docs.google.com/presentation/d/1M4l9aJVn98CHgpd3bkB60j2Es-npxY_VBv-mVZSg2EE/edit?usp=sharing">
+          <img src="https://img.shields.io/badge/-HTX_Microsoft_HacX!_2024_Hackathon-black?style=flat-square&logo=openai" /></a>
     </div>
   </details>
   <!------------------------>
@@ -85,6 +89,10 @@
       <!-- (ESD) YATA - Yet Another Telemedicine App -->
       <a href="https://github.com/0gw0/Healthcare-API">
           <img src="https://img.shields.io/badge/-(ESD_Project_2024)_YATA-black?style=flat-square&logo=docker" /></a>
+      <br/>
+      <!-- (SPM) Grandis: WFH Management System (SCRUM) -->
+      <a href="https://spm-one-in-all-wfh.vercel.app/">
+          <img src="https://img.shields.io/badge/-(SPM_Project_2024)_Grandis--WFH_App-black?style=flat-square&logo=next.js" /></a>
     </div>
   </details>
   <!---------------------->
