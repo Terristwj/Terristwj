@@ -92,7 +92,10 @@
       <br/>
       <!-- (SPM) Grandis: WFH Management System (SCRUM) -->
       <a href="https://spm-one-in-all-wfh.vercel.app/">
-          <img src="https://img.shields.io/badge/-(SPM_Project_2024)_Grandis--WFH_App-black?style=flat-square&logo=next.js" /></a>
+          <img src="https://img.shields.io/badge/-(SPM_Project_2024)_Grandis_--_WFH_App-black?style=flat-square&logo=next.js" /></a>
+      <!-- (CME) Urban Edge: The Shift to the Cloud (AWS) -->
+      <a href="https://github.com/Terristwj/IS458-UrbanEdge">
+          <img src="https://img.shields.io/badge/-(CME_Project_2024)_Urban_Edge_--_AWS_Demo-black?style=flat-square&logo=amazonwebservices" /></a>
     </div>
   </details>
   <!---------------------->
